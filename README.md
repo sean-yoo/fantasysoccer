@@ -1,6 +1,12 @@
+{WORK IN PROGRESS}
 Fantasy Soccer Project
 
 data api from official Fantasy Premier League Website
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
